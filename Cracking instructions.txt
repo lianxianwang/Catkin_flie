@@ -1,0 +1,5 @@
+#The cracker is copied to C:\altera\12.0\quartus\bin64, click Start Application, and license.dat will be generated. 
+# Replace XXXXXXXXX in license.dat with your network card number (under the Tools menu of Quartus II 12.0 Select License Setup, and there is NIC ID below).
+
+#Select License Setup under the Tools menu of Quartus II 12.0, then select License file, and finally click OK.
+
